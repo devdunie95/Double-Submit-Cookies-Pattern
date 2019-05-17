@@ -14,4 +14,4 @@ Clone the repo or download the zip file and put it inside htdocs folder.
 
 Navigate to localhost
 
-Blog Post Link: https://saugataryal.wordpress.com/2018/10/01/csrf-mitigation-using-double-submit-cookies-pattern/
+Blog Post Link: https://pabasararanasinghe.wordpress.com/2019/05/17/csrf-mitigation-using-double-submit-cookies-pattern-in-php/
